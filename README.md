@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ruposhi-nogor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ruposhi Nogor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ruposhi-nogor/) |
+| **Get License** | [Request Licensing for Ruposhi Nogor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ruposhi-nogor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রূপসী নগর আজ স্বপ্নের মতো
+> লুকানো আছে বুকে প্রেমের ক্ষত
+> নিঃশব্দ রাতের কোলে তুমি আমার হও
+> হৃদয়ের সব কথা চুপিসারে কও
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

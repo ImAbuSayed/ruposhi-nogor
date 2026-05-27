@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ruposhi Nogor
+
+This log tracks the cryptographic history and versioning for the song **Ruposhi Nogor** (ruposhi-nogor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:45:51.390325 | `v1` | `63c3e785cc6e40388a8336b6fb70e40255e060735b5bbb647af5034843ebfe76` | `b139f91466fa50c963f63fd4285dd5c6069eda502f2ac6bda652732ebd184687` | `2026-05-28_ruposhi-nogor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
